@@ -86,11 +86,10 @@ Checkers_AI/
 > Add your screenshots here after running the game.
 
 ```
-Screenshots/
-├── main_menu.png
-├── gameplay.png
-└── end_game.png
-```
+![Main Menu](Screenshots/main_menu.png)
+![Gameplay](Screenshots/gameplay.png)
+![End Game](Screenshots/end_game.png)
+
 
 ---
 
